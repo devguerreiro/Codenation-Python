@@ -1,7 +1,7 @@
-from classes import Department, Manager
+from classes import Department, Employee
 
 
-class Seller(Manager):
+class Seller(Employee):
     def __init__(self, code, name, salary):
         super().__init__(code, name, salary)
         self.__department = Department("sellers", 2)
