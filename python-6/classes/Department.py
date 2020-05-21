@@ -1,10 +1,16 @@
 class Department:
-    def __init__(self, name, code):
+    def __init__(self, *, name, code):
         self.__name = name
         self.__code = code
 
-    def get_department(self):
+    def get_name(self):
         return self.__name
 
-    def set_department(self, value):
-        self.__name = value
+    def set_name(self, name):
+        self.__name = name
+
+    def get_code(self):
+        return self.__code
+
+    def set_code(self, code):
+        self.__code = code
