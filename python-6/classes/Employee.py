@@ -23,5 +23,5 @@ class Employee(ABC):
     def get_salary(self):
         return self.__salary
 
-    def get_departament(self):
+    def get_department(self):
         return self.__department.get_name()
