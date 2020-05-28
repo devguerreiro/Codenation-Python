@@ -1,0 +1,22 @@
+============================= test session starts ==============================
+platform linux -- Python 3.6.9, pytest-3.6.2, py-1.5.3, pluggy-0.6.0 -- /home/guerreiro/codenation/python-7/venv/bin/python
+cachedir: .pytest_cache
+rootdir: /home/guerreiro/codenation/python-7, inifile:
+collecting ... collected 13 items
+
+test_main.py::test_get_temperature_by_lat_lng PASSED                     [  7%]
+test_main.py::test_raise_null_temperature PASSED                         [ 15%]
+test_main.py::test_celsius_convertion_valid[32-0] PASSED                 [ 23%]
+test_main.py::test_celsius_convertion_valid[85-29] PASSED                [ 30%]
+test_main.py::test_celsius_convertion_valid[117-47] PASSED               [ 38%]
+test_main.py::test_celsius_convertion_valid[65-18] PASSED                [ 46%]
+test_main.py::test_celsius_convertion_invalid[a] PASSED                  [ 53%]
+test_main.py::test_celsius_convertion_invalid[b] PASSED                  [ 61%]
+test_main.py::test_celsius_convertion_invalid[True] PASSED               [ 69%]
+test_main.py::test_celsius_convertion_invalid[False] PASSED              [ 76%]
+test_main.py::test_celsius_convertion_invalid[temperature4] PASSED       [ 84%]
+test_main.py::test_celsius_convertion_invalid[temperature5] PASSED       [ 92%]
+test_main.py::test_celsius_convertion_invalid[temperature6] PASSED       [100%]
+
+------ generated xml file: /home/guerreiro/codenation/python-7/output.xml ------
+========================== 13 passed in 0.33 seconds ===========================
