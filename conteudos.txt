@@ -35,3 +35,19 @@ https://www.obeythetestinggoat.com/pages/book.html
 https://afroshok.com/articles/test-driven-development-pytest/
 
 http://www.marinamele.com/taskbuster-django-tutorial/create-home-page-with-tdd-staticfiles-templates-settings
+
+https://www.vivaolinux.com.br/artigo/Um-pouco-do-protocolo-HTTP?pagina=1
+
+http://www.hpcs.cs.tsukuba.ac.jp/~tatebe/lecture/h23/dsys/dsd-tutorial.html
+
+https://www.imperva.com/learn/application-security/web-api-security/
+
+https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html
+
+https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/Sess%C3%B5es
+
+http://www.deinf.ufma.br/~mario/producao/tese_swds.pdf
+
+https://www.imperva.com/learn/application-security/cross-site-scripting-xss-attacks/
+
+https://www.auvik.com/franklymsp/blog/tcp-window-size/
