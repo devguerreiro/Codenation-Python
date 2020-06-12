@@ -51,3 +51,13 @@ http://www.deinf.ufma.br/~mario/producao/tese_swds.pdf
 https://www.imperva.com/learn/application-security/cross-site-scripting-xss-attacks/
 
 https://www.auvik.com/franklymsp/blog/tcp-window-size/
+
+https://s3-us-west-1.amazonaws.com/codenation-challenges/python-online-1-modulo-5/arquivos_aula.zip
+
+https://www.infoq.com/br/presentations/django-framework-web-prazos/
+
+https://www.youtube.com/watch?v=LndJOSwRYOM
+
+https://www.profissionaisti.com.br/2009/04/entendendo-o-django/
+
+https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/skeleton_website
