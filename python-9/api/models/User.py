@@ -8,3 +8,4 @@ class User(models.Model):
     last_login = models.DateTimeField(null=True, blank=True)
     email = models.EmailField()
     password = models.CharField(max_length=50, validators=[MinLengthValidator(8)])
+    groups = models.ManyToManyField("Group", related_name="users", through="GroupUser")
