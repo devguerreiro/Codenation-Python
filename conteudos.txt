@@ -61,3 +61,11 @@ https://www.youtube.com/watch?v=LndJOSwRYOM
 https://www.profissionaisti.com.br/2009/04/entendendo-o-django/
 
 https://developer.mozilla.org/pt-BR/docs/Learn/Server-side/Django/skeleton_website
+
+https://medium.com/crowdbotics/how-to-write-an-api-in-3-lines-of-code-with-django-rest-framework-59b0971edfa4
+
+https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework-32fcf40231e5
+
+https://www.restapitutorial.com/
+
+https://becode.com.br/o-que-e-api-rest-e-restful/
