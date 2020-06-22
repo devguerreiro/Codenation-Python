@@ -69,3 +69,17 @@ https://medium.com/backticks-tildes/lets-build-an-api-with-django-rest-framework
 https://www.restapitutorial.com/
 
 https://becode.com.br/o-que-e-api-rest-e-restful/
+
+https://www.gilenofilho.com.br/como-funciona-o-orm-do-django/
+
+https://buildmedia.readthedocs.org/media/pdf/django-orm-cookbook/latest/django-orm-cookbook.pdf
+
+https://hackernoon.com/django-orm-relationships-cheat-sheet-14433d6cf68c
+
+http://concisecoder.io/2018/11/04/django-orm-optimization-tips/
+
+https://moacirmoda.com/django-models-o-guia-definitivo-das-boas-praticas/
+
+https://realpython.com/caching-in-django-with-redis/
+
+https://medium.com/@beatrizuezu/visualizando-query-sql-a-partir-do-orm-django-5771370a9c55
