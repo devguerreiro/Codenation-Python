@@ -83,3 +83,13 @@ https://moacirmoda.com/django-models-o-guia-definitivo-das-boas-praticas/
 https://realpython.com/caching-in-django-with-redis/
 
 https://medium.com/@beatrizuezu/visualizando-query-sql-a-partir-do-orm-django-5771370a9c55
+
+https://www.ibm.com/developerworks/br/library/os-sphinx-documentation/index.html
+
+https://www.restapitutorial.com/
+
+https://medium.com/renato-de-oliveira/introdu%C3%A7%C3%A3o-ao-raml-ac47d2fd5e22
+
+http://www.matera.com/blog/post/swagger-como-gerar-uma-documentacao-interativa-para-api-rest
+
+https://klauslaube.com.br/2017/01/31/ramilificando-as-suas-apis.html
