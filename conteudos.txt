@@ -93,3 +93,21 @@ https://medium.com/renato-de-oliveira/introdu%C3%A7%C3%A3o-ao-raml-ac47d2fd5e22
 http://www.matera.com/blog/post/swagger-como-gerar-uma-documentacao-interativa-para-api-rest
 
 https://klauslaube.com.br/2017/01/31/ramilificando-as-suas-apis.html
+
+https://nic.br/
+
+https://registro.br/tecnologia/dnssec/dns-e-dnssec/
+
+https://configr.com/blog/deploy-em-4-passos-para-desenvolvedores-iniciantes/
+
+https://gunicorn.org/
+
+https://uwsgi-docs.readthedocs.io/en/latest/index.html
+
+https://fernandofreitasalves.com/guia-para-deploy-django-python/
+
+https://www.treinaweb.com.br/blog/deploy-de-uma-aplicacao-django-no-heroku/
+
+https://docs.travis-ci.com/user/languages/python/
+
+https://realpython.com/python-continuous-integration/
